@@ -2,7 +2,7 @@ body{
     background: linear-gradient(#FF8D0A,#E07800, #B86200,#3C5190, #304173, #18203A );
 }
 .logo{
-    width: 80px;
+    width: 50px;
 }
 .lentes{
     position: absolute;
@@ -15,6 +15,9 @@ body{
 .carte{
     display: flex;
     gap:20px;
+}
+.card:hover{
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .cartine{
     display: flex;
@@ -29,4 +32,5 @@ body{
 .accordion{
     margin-top: 30px;
 }
+
 
