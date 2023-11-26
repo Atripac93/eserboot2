@@ -1,3 +1,6 @@
+body{
+    background: linear-gradient(#FF8D0A,#E07800, #B86200,#3C5190, #304173, #18203A );
+}
 .logo{
     width: 80px;
 }
