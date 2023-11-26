@@ -4,3 +4,35 @@ body{
 .logo{
     width: 80px;
 }
+.lentes{
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 180px;
+}
+.offerta{
+    margin: 20px;
+}
+.carte{
+    display: flex;
+    gap:20px;
+}
+.cartine{
+    display: flex;
+    gap:20px;
+}
+.sharm{
+    height: 165px;
+}
+.istanbul{
+    height: 100px;
+}
+.welcome{
+    margin: 20px;
+}
+.scopri{
+    margin: 20px;
+}
+.test{
+    margin:20px;
+}
+
