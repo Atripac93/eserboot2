@@ -26,13 +26,7 @@ body{
 .istanbul{
     height: 100px;
 }
-.welcome{
-    margin: 20px;
-}
-.scopri{
-    margin: 20px;
-}
-.test{
-    margin:20px;
+.accordion{
+    margin-top: 30px;
 }
 
